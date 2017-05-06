@@ -1,0 +1,10 @@
+framework module ListQueueStack {
+  umbrella header "ListQueueStack.h"
+
+  export *
+  module * { export * }
+}
+
+module ListQueueStack.Swift {
+    header "ListQueueStack-Swift.h"
+}
